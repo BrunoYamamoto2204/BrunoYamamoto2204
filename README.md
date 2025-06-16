@@ -4,8 +4,8 @@ Sou um estudante de Desenvolvimento de Software e apaixonado por tecnologia. Atu
 
 ---
 <div align="center">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunoyamamoto2204&show_icons=true&theme=nord&hide_border=true&card_width=400" alt="GitHub Stats" style="width: 49%; display: inline-block; ">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoyamamoto2204&layout=compact&theme=nord&hide_border=true&card_width=400" alt="Top Langs" style="width: 49%; display: inline-block; border: 1px solid white;">
+    <h2> --  📈 GitHub Stats  --</h2>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=brunoyamamoto2204&show_icons=true&theme=nord&hide_border=true&card_width=400&hide_title=true" alt="GitHub Stats" style="width: 49%; display: inline-block; ">
 </div>
 
 <br><div align="center">
